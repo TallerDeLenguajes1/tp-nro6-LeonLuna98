@@ -1,0 +1,6 @@
+C:\Users\Alumno\Desktop\tp6-Taller1-LunaPerdigonConradoLeon\tp-nro6-LeonLuna98\tp6.pto1\tp6.pto2\bin\Debug\tp6.pto2.exe.config
+C:\Users\Alumno\Desktop\tp6-Taller1-LunaPerdigonConradoLeon\tp-nro6-LeonLuna98\tp6.pto1\tp6.pto2\obj\Debug\tp6.pto2.csprojResolveAssemblyReference.cache
+C:\Users\Alumno\Desktop\tp6-Taller1-LunaPerdigonConradoLeon\tp-nro6-LeonLuna98\tp6.pto1\tp6.pto2\bin\Debug\tp6.pto2.exe
+C:\Users\Alumno\Desktop\tp6-Taller1-LunaPerdigonConradoLeon\tp-nro6-LeonLuna98\tp6.pto1\tp6.pto2\bin\Debug\tp6.pto2.pdb
+C:\Users\Alumno\Desktop\tp6-Taller1-LunaPerdigonConradoLeon\tp-nro6-LeonLuna98\tp6.pto1\tp6.pto2\obj\Debug\tp6.pto2.exe
+C:\Users\Alumno\Desktop\tp6-Taller1-LunaPerdigonConradoLeon\tp-nro6-LeonLuna98\tp6.pto1\tp6.pto2\obj\Debug\tp6.pto2.pdb
