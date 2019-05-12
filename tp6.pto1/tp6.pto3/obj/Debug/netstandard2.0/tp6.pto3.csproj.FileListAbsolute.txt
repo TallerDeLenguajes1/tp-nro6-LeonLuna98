@@ -1,0 +1,9 @@
+C:\Users\Conrado\Source\Repos\tp-nro6-LeonLuna98\tp6.pto1\tp6.pto3\bin\Debug\netstandard2.0\tp6.pto3.deps.json
+C:\Users\Conrado\Source\Repos\tp-nro6-LeonLuna98\tp6.pto1\tp6.pto3\bin\Debug\netstandard2.0\tp6.pto3.dll
+C:\Users\Conrado\Source\Repos\tp-nro6-LeonLuna98\tp6.pto1\tp6.pto3\bin\Debug\netstandard2.0\tp6.pto3.pdb
+C:\Users\Conrado\Source\Repos\tp-nro6-LeonLuna98\tp6.pto1\tp6.pto3\obj\Debug\netstandard2.0\tp6.pto3.csprojAssemblyReference.cache
+C:\Users\Conrado\Source\Repos\tp-nro6-LeonLuna98\tp6.pto1\tp6.pto3\obj\Debug\netstandard2.0\tp6.pto3.csproj.CoreCompileInputs.cache
+C:\Users\Conrado\Source\Repos\tp-nro6-LeonLuna98\tp6.pto1\tp6.pto3\obj\Debug\netstandard2.0\tp6.pto3.AssemblyInfoInputs.cache
+C:\Users\Conrado\Source\Repos\tp-nro6-LeonLuna98\tp6.pto1\tp6.pto3\obj\Debug\netstandard2.0\tp6.pto3.AssemblyInfo.cs
+C:\Users\Conrado\Source\Repos\tp-nro6-LeonLuna98\tp6.pto1\tp6.pto3\obj\Debug\netstandard2.0\tp6.pto3.dll
+C:\Users\Conrado\Source\Repos\tp-nro6-LeonLuna98\tp6.pto1\tp6.pto3\obj\Debug\netstandard2.0\tp6.pto3.pdb

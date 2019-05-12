@@ -1,0 +1,11 @@
+C:\Users\Conrado\Source\Repos\tp-nro6-LeonLuna98\tp6.pto1\tp6.pto3.2\bin\Debug\netcoreapp2.1\tp6.pto3.2.deps.json
+C:\Users\Conrado\Source\Repos\tp-nro6-LeonLuna98\tp6.pto1\tp6.pto3.2\bin\Debug\netcoreapp2.1\tp6.pto3.2.runtimeconfig.json
+C:\Users\Conrado\Source\Repos\tp-nro6-LeonLuna98\tp6.pto1\tp6.pto3.2\bin\Debug\netcoreapp2.1\tp6.pto3.2.runtimeconfig.dev.json
+C:\Users\Conrado\Source\Repos\tp-nro6-LeonLuna98\tp6.pto1\tp6.pto3.2\bin\Debug\netcoreapp2.1\tp6.pto3.2.dll
+C:\Users\Conrado\Source\Repos\tp-nro6-LeonLuna98\tp6.pto1\tp6.pto3.2\bin\Debug\netcoreapp2.1\tp6.pto3.2.pdb
+C:\Users\Conrado\Source\Repos\tp-nro6-LeonLuna98\tp6.pto1\tp6.pto3.2\obj\Debug\netcoreapp2.1\tp6.pto3.2.csprojAssemblyReference.cache
+C:\Users\Conrado\Source\Repos\tp-nro6-LeonLuna98\tp6.pto1\tp6.pto3.2\obj\Debug\netcoreapp2.1\tp6.pto3.2.csproj.CoreCompileInputs.cache
+C:\Users\Conrado\Source\Repos\tp-nro6-LeonLuna98\tp6.pto1\tp6.pto3.2\obj\Debug\netcoreapp2.1\tp6.pto3.2.AssemblyInfoInputs.cache
+C:\Users\Conrado\Source\Repos\tp-nro6-LeonLuna98\tp6.pto1\tp6.pto3.2\obj\Debug\netcoreapp2.1\tp6.pto3.2.AssemblyInfo.cs
+C:\Users\Conrado\Source\Repos\tp-nro6-LeonLuna98\tp6.pto1\tp6.pto3.2\obj\Debug\netcoreapp2.1\tp6.pto3.2.dll
+C:\Users\Conrado\Source\Repos\tp-nro6-LeonLuna98\tp6.pto1\tp6.pto3.2\obj\Debug\netcoreapp2.1\tp6.pto3.2.pdb

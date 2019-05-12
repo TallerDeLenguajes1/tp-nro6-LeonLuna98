@@ -1,0 +1,60 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Conrado\\source\\repos\\tp-nro6-LeonLuna98\\tp6.pto1\\tp6.pto3\\tp6.pto3.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Conrado\\source\\repos\\tp-nro6-LeonLuna98\\tp6.pto1\\tp6.pto3\\tp6.pto3.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Conrado\\source\\repos\\tp-nro6-LeonLuna98\\tp6.pto1\\tp6.pto3\\tp6.pto3.csproj",
+        "projectName": "tp6.pto3",
+        "projectPath": "C:\\Users\\Conrado\\source\\repos\\tp-nro6-LeonLuna98\\tp6.pto1\\tp6.pto3\\tp6.pto3.csproj",
+        "packagesPath": "C:\\Users\\Conrado\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Conrado\\source\\repos\\tp-nro6-LeonLuna98\\tp6.pto1\\tp6.pto3\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Conrado\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

@@ -4,3 +4,10 @@ C:\Users\Alumno\Desktop\tp6-Taller1-LunaPerdigonConradoLeon\tp-nro6-LeonLuna98\t
 C:\Users\Alumno\Desktop\tp6-Taller1-LunaPerdigonConradoLeon\tp-nro6-LeonLuna98\tp6.pto1\tp6.pto2\bin\Debug\tp6.pto2.pdb
 C:\Users\Alumno\Desktop\tp6-Taller1-LunaPerdigonConradoLeon\tp-nro6-LeonLuna98\tp6.pto1\tp6.pto2\obj\Debug\tp6.pto2.exe
 C:\Users\Alumno\Desktop\tp6-Taller1-LunaPerdigonConradoLeon\tp-nro6-LeonLuna98\tp6.pto1\tp6.pto2\obj\Debug\tp6.pto2.pdb
+C:\Users\Conrado\Source\Repos\tp-nro6-LeonLuna98\tp6.pto1\tp6.pto2\bin\Debug\tp6.pto2.exe.config
+C:\Users\Conrado\Source\Repos\tp-nro6-LeonLuna98\tp6.pto1\tp6.pto2\bin\Debug\tp6.pto2.exe
+C:\Users\Conrado\Source\Repos\tp-nro6-LeonLuna98\tp6.pto1\tp6.pto2\bin\Debug\tp6.pto2.pdb
+C:\Users\Conrado\Source\Repos\tp-nro6-LeonLuna98\tp6.pto1\tp6.pto2\obj\Debug\tp6.pto2.csproj.CoreCompileInputs.cache
+C:\Users\Conrado\Source\Repos\tp-nro6-LeonLuna98\tp6.pto1\tp6.pto2\obj\Debug\tp6.pto2.exe
+C:\Users\Conrado\Source\Repos\tp-nro6-LeonLuna98\tp6.pto1\tp6.pto2\obj\Debug\tp6.pto2.pdb
+C:\Users\Conrado\Source\Repos\tp-nro6-LeonLuna98\tp6.pto1\tp6.pto2\obj\Debug\tp6.pto2.csprojAssemblyReference.cache
