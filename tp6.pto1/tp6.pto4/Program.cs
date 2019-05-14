@@ -2,23 +2,37 @@
 
 namespace tp6.pto4
 {
+  
     class Program
     {
+        public int Length { get; }
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+            Console.WriteLine("Ingrese una cadena: ");
+            string Cadena = Console.ReadLine();
+            
+            
+            //Cadena separada por caracteres determinados con split()
+            string[] Cadenaaux = Cadena.Split(new Char[] { '?', ',', '.' , '!'});
+            foreach (string palabra in Cadenaaux) { 
+            Console.WriteLine(palabra); }
+            //Longitud de la cadena
+            Console.WriteLine(" La longitud de la cadena '{0}' es {1}", Cadena, Cadena.Length);
 
-            string cadena;
-            Console.Write("Ingrese una cadena ");
-            cadena = (Console.ReadLine());
-            //char letra;
-            //Console.Write("Ingrese una letra");
-            //letra = char.Parse(Console.ReadLine());
-            Console.WriteLine("La cadena es: "+ cadena.ToString());
-            cadena= cadena.ToUpper();
-            Console.WriteLine("La cadena es: " + cadena.ToString());
-            cadena = cadena.ToLower();
-            Console.WriteLine("La cadena es: " + cadena.ToString());
+            //Palabra a buscar
+            Console.WriteLine("Ingrese una palabra a buscar");
+            string palabraabuscar = Console.ReadLine();
+            int letra = Cadena.IndexOf(palabraabuscar);
+            string laletra = Cadena.Substring(letra);
+            Console.WriteLine(laletra);
+
+            
+            //Convertir de mayuscula a minuscula
+            Cadena = Cadena.ToUpper();
+            Console.WriteLine("Mayuscula:  " + Cadena);
+            Cadena = Cadena.ToLower();
+            Console.WriteLine("Minuscula:  " + Cadena);
             Console.ReadLine();
         }
     }

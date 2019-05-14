@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Conrado\\Source\\Repos\\tp-nro6-LeonLuna98\\tp6.pto1\\tp6.pto3.2\\tp6.pto3.2.csproj": {}
+    "C:\\Users\\Conrado\\source\\repos\\tp-nro6-LeonLuna98\\tp6.pto1\\tp6.pto3.2\\tp6.pto3.2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Conrado\\Source\\Repos\\tp-nro6-LeonLuna98\\tp6.pto1\\tp6.pto3.2\\tp6.pto3.2.csproj": {
+    "C:\\Users\\Conrado\\source\\repos\\tp-nro6-LeonLuna98\\tp6.pto1\\tp6.pto3.2\\tp6.pto3.2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Conrado\\Source\\Repos\\tp-nro6-LeonLuna98\\tp6.pto1\\tp6.pto3.2\\tp6.pto3.2.csproj",
+        "projectUniqueName": "C:\\Users\\Conrado\\source\\repos\\tp-nro6-LeonLuna98\\tp6.pto1\\tp6.pto3.2\\tp6.pto3.2.csproj",
         "projectName": "tp6.pto3.2",
-        "projectPath": "C:\\Users\\Conrado\\Source\\Repos\\tp-nro6-LeonLuna98\\tp6.pto1\\tp6.pto3.2\\tp6.pto3.2.csproj",
+        "projectPath": "C:\\Users\\Conrado\\source\\repos\\tp-nro6-LeonLuna98\\tp6.pto1\\tp6.pto3.2\\tp6.pto3.2.csproj",
         "packagesPath": "C:\\Users\\Conrado\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Conrado\\Source\\Repos\\tp-nro6-LeonLuna98\\tp6.pto1\\tp6.pto3.2\\obj\\",
+        "outputPath": "C:\\Users\\Conrado\\source\\repos\\tp-nro6-LeonLuna98\\tp6.pto1\\tp6.pto3.2\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
