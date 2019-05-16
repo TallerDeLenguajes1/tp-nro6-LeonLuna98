@@ -7,9 +7,11 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tp6.pto1", "tp6.pto1\tp6.pt
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tp6.pto2", "tp6.pto2\tp6.pto2.csproj", "{40B5C777-013E-48E9-8B14-904D2D32CF17}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tp6.pto3.2", "tp6.pto3.2\tp6.pto3.2.csproj", "{B113D634-8ECF-4BC6-B6BE-6ECC68709D17}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "tp6.pto3.2", "tp6.pto3.2\tp6.pto3.2.csproj", "{B113D634-8ECF-4BC6-B6BE-6ECC68709D17}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tp6.pto4", "tp6.pto4\tp6.pto4.csproj", "{844B09E4-911B-4703-BDC8-69A8BC4FF023}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "tp6.pto4", "tp6.pto4\tp6.pto4.csproj", "{844B09E4-911B-4703-BDC8-69A8BC4FF023}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "laagenda", "laagenda\laagenda.csproj", "{8AC39F1C-054C-4520-AD96-3D8F32097262}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -69,6 +71,18 @@ Global
 		{844B09E4-911B-4703-BDC8-69A8BC4FF023}.Release|x64.Build.0 = Release|Any CPU
 		{844B09E4-911B-4703-BDC8-69A8BC4FF023}.Release|x86.ActiveCfg = Release|Any CPU
 		{844B09E4-911B-4703-BDC8-69A8BC4FF023}.Release|x86.Build.0 = Release|Any CPU
+		{8AC39F1C-054C-4520-AD96-3D8F32097262}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8AC39F1C-054C-4520-AD96-3D8F32097262}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8AC39F1C-054C-4520-AD96-3D8F32097262}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{8AC39F1C-054C-4520-AD96-3D8F32097262}.Debug|x64.Build.0 = Debug|Any CPU
+		{8AC39F1C-054C-4520-AD96-3D8F32097262}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{8AC39F1C-054C-4520-AD96-3D8F32097262}.Debug|x86.Build.0 = Debug|Any CPU
+		{8AC39F1C-054C-4520-AD96-3D8F32097262}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8AC39F1C-054C-4520-AD96-3D8F32097262}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8AC39F1C-054C-4520-AD96-3D8F32097262}.Release|x64.ActiveCfg = Release|Any CPU
+		{8AC39F1C-054C-4520-AD96-3D8F32097262}.Release|x64.Build.0 = Release|Any CPU
+		{8AC39F1C-054C-4520-AD96-3D8F32097262}.Release|x86.ActiveCfg = Release|Any CPU
+		{8AC39F1C-054C-4520-AD96-3D8F32097262}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

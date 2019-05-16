@@ -1,0 +1,11 @@
+C:\Users\Conrado\source\repos\tp-nro6-LeonLuna98\tp6.pto1\laagenda\bin\Debug\netcoreapp2.1\laagenda.deps.json
+C:\Users\Conrado\source\repos\tp-nro6-LeonLuna98\tp6.pto1\laagenda\bin\Debug\netcoreapp2.1\laagenda.runtimeconfig.json
+C:\Users\Conrado\source\repos\tp-nro6-LeonLuna98\tp6.pto1\laagenda\bin\Debug\netcoreapp2.1\laagenda.runtimeconfig.dev.json
+C:\Users\Conrado\source\repos\tp-nro6-LeonLuna98\tp6.pto1\laagenda\bin\Debug\netcoreapp2.1\laagenda.dll
+C:\Users\Conrado\source\repos\tp-nro6-LeonLuna98\tp6.pto1\laagenda\bin\Debug\netcoreapp2.1\laagenda.pdb
+C:\Users\Conrado\source\repos\tp-nro6-LeonLuna98\tp6.pto1\laagenda\obj\Debug\netcoreapp2.1\laagenda.csprojAssemblyReference.cache
+C:\Users\Conrado\source\repos\tp-nro6-LeonLuna98\tp6.pto1\laagenda\obj\Debug\netcoreapp2.1\laagenda.csproj.CoreCompileInputs.cache
+C:\Users\Conrado\source\repos\tp-nro6-LeonLuna98\tp6.pto1\laagenda\obj\Debug\netcoreapp2.1\laagenda.AssemblyInfoInputs.cache
+C:\Users\Conrado\source\repos\tp-nro6-LeonLuna98\tp6.pto1\laagenda\obj\Debug\netcoreapp2.1\laagenda.AssemblyInfo.cs
+C:\Users\Conrado\source\repos\tp-nro6-LeonLuna98\tp6.pto1\laagenda\obj\Debug\netcoreapp2.1\laagenda.dll
+C:\Users\Conrado\source\repos\tp-nro6-LeonLuna98\tp6.pto1\laagenda\obj\Debug\netcoreapp2.1\laagenda.pdb
