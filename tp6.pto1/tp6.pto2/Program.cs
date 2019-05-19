@@ -10,7 +10,7 @@ namespace tp6.pto2
     {
         static void Main(string[] args)
         {
-            /*char operador;
+            char operador;
             int a, b,c;
             Console.Write("Ingrese un operador + , - , * , /: ");
             operador = char.Parse(Console.ReadLine());
@@ -56,33 +56,34 @@ namespace tp6.pto2
             Console.WriteLine("El minimo entre " + a + " y " + b + " es " + min.ToString());
             double potencia = Math.Pow(n, 2.0);
             Console.WriteLine("La potencia cuadrada de " + n + " es " + potencia.ToString());
-            */
+            
             Console.WriteLine("Ingrese una operacion numerica como string");
             string operacion = Console.ReadLine();
             
             string[] numeros = operacion.Split(new Char[] { '+', '-', '*', '/' });
             int resultado;
-            switch (char.Parse(operacion))
-            {
-                case '*':
+
+            if (operacion.Contains("*")) { 
                     resultado =Convert.ToInt32( numeros[0]) * Convert.ToInt32(numeros[1]);
                     Console.WriteLine("La multiplicacion de " + numeros[0] + " por " + numeros[1] + " es " + resultado);
-                    break;
-
-                case '-':
-                    resultado = Convert.ToInt32(numeros[0]) - Convert.ToInt32(numeros[1]);
-                    Console.WriteLine("La resta de " + numeros[0] + " menos " + numeros[1] + " es " + resultado);
-                    break;
-
-                case '+':
-                    resultado = Convert.ToInt32(numeros[0]) + Convert.ToInt32(numeros[1]);
-                    Console.WriteLine("La suma de " + numeros[0] + " mas " + numeros[1] + " es " + resultado);
-                    break;
-
-                case '/':
-                    resultado = Convert.ToInt32(numeros[0]) / Convert.ToInt32(numeros[1]);
+                   }
+            if (operacion.Contains("-"))
+            {
+                resultado = Convert.ToInt32(numeros[0]) - Convert.ToInt32(numeros[1]);
+                Console.WriteLine("La resta de " + numeros[0] + " menos " + numeros[1] + " es " + resultado);
+                
+            }
+            if (operacion.Contains("+"))
+            {
+                resultado = Convert.ToInt32(numeros[0]) + Convert.ToInt32(numeros[1]);
+                Console.WriteLine("La suma de " + numeros[0] + " mas " + numeros[1] + " es " + resultado);
+               
+            }
+            if (operacion.Contains("/"))
+            {
+                resultado = Convert.ToInt32(numeros[0]) / Convert.ToInt32(numeros[1]);
                     Console.WriteLine("La division entera de " + numeros[0] + " sobre " + numeros[1] + " es " + resultado);
-                    break;
+                  
 
             }
 
